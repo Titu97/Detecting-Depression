@@ -1,5 +1,11 @@
-torch==2.0.1  # Version of PyTorch, change to your current version if needed
-numpy==1.24.3  # NumPy version
-scikit-learn==1.2.2  # Version for scikit-learn
-transformers==4.29.2  # Transformers version, adjust to match your installed version
-datasets==2.10.1  # Datasets library version
+# Transformers library for NLP models
+transformers==4.39.3
+
+# PyTorch for deep learning with CUDA 12.1 support
+torch==2.2.2+cu121
+
+# NumPy for numerical computations
+numpy==1.26.4
+
+# Scikit-learn for machine learning utilities
+scikit-learn==1.4.1.post1
