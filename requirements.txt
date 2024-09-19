@@ -1,3 +1,8 @@
+# Whisper for speech recognition
+openai-whisper
+
+# FFmpeg required, install separately (https://ffmpeg.org/download.html)
+
 # Transformers library for NLP models
 transformers==4.39.3
 
