@@ -1,0 +1,5 @@
+torch==2.0.1  # Version of PyTorch, change to your current version if needed
+numpy==1.24.3  # NumPy version
+scikit-learn==1.2.2  # Version for scikit-learn
+transformers==4.29.2  # Transformers version, adjust to match your installed version
+datasets==2.10.1  # Datasets library version
